@@ -2,7 +2,7 @@
 Repository to post some initial concetpts about .hmtl, .CSS and JavaScript
 
 
-#html- hypertext markup language
+# html- hypertext markup language
 
 in a .hmtl archive you mark the structure of the text in the site 
 
