@@ -18,6 +18,7 @@ to the link href="google.com" and it could send the user to the adress
 
 in a ".css" file you set the style of the marked text (marked with html)
 by linking the hmtl file to a css file <br>
+see in the code:<br>
 
 <!--
 in the css file linked with the html, you can set the sytle specificaly to an text mark<br>
