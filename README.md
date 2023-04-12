@@ -5,14 +5,14 @@ Repository to post some initial concetpts about .hmtl, .CSS and JavaScript <br>
 in a .hmtl file you mark the structure of the text in the site <br>
 see more in the code: <br>
 
-"<!-- 
+<!-- 
 <h1>text here</h1> - mark the text as level 1 title
 
 <p> text </p> - mark the text inside as a paragraph
 
 <a> google</a> - link to another page/diretoy/file, and you can add a reference
 to the link href="google.com" and it could send the user to the adress
--->"
+-->
 
 # CSS - cascading style sheets
 
