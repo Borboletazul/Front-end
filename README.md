@@ -17,8 +17,6 @@ to the link href="google.com" and it could send the user to the adress
 # CSS - cascading style sheets
 
 in a ".css" file you set the style of the marked text (marked with html)
-by linking the hmtl file to a a css, 
-
-
+by linking the hmtl file to a css file <br>
 the html file will contain the structure and types of text and 
 the css file will contain the style of the text, such as color, background and others
