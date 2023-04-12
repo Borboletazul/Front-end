@@ -30,7 +30,6 @@ p{
 
 set all the paragraphs text color to red
 -->
-#Resume:
+# Resume:
 the html file will contain the structure and types of text and 
 the css file will contain the style of the text, such as color, background and others
-"<h1>"r"</h1>"
