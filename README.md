@@ -12,6 +12,8 @@ see more in the code: <br>
 
 <a> google</a> - link to another page/diretoy/file, and you can add a reference
 to the link href="google.com" and it could send the user to the adress
+One of the most important thing in the structure of the site are the boxes
+<div> </div>
 -->
 
 # CSS - cascading style sheets
