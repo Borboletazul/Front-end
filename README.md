@@ -35,3 +35,6 @@ set all the paragraphs text color to red
 # Resume:
 the html file will contain the structure and types of text and 
 the css file will contain the style of the text, such as color, background and others
+Most of the the web sites are designed using boxes to guide the structure of the content
+in the scream, shuch as images and texts, the boxes help to set the contents in the righ place
+in order to have a good interface
