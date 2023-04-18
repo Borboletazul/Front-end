@@ -5,7 +5,7 @@ Repository to post some initial concetpts about .hmtl, .CSS and JavaScript <br>
 in a .hmtl file you mark the structure of the text in the site <br>
 see more in the code: <br>
 
-<code>
+<!--
 <h1>text here</h1> - mark the text as level 1 title
 
 <p> text </p> - mark the text inside as a paragraph
@@ -25,7 +25,7 @@ with id you set for one element(text or image) a specific reference, that in the
 
 to set a generict inline mark, we have the tag "span"
 <span> any text </span>
-</code>
+-->
 
 # CSS - cascading style sheets
 
