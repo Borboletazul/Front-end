@@ -1,5 +1,5 @@
 # html- hypertext markup language <br>
-in a .hmtl file you mark the structure of the text in the site <br>
+in a .hmtl file you mark the structure of the text <br>
 see more in the code: <br>
 
 <!--
