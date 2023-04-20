@@ -3,19 +3,18 @@ For HTML files we will set the main structure of the site <code>(<html>, <head> 
 <code>
 
 <!DOCTYPE html>
+
 <html>
+
   <head>
     <title> Janela </title>
   </head>
 
   <body>
     <h1> Some title here <h1>
-    
-    <p>
-    some text in here
-    </p>
-    
+    <p>some text in here</p>
   </body>
 
 </html>
+
 </code>
